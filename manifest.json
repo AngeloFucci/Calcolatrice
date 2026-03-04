@@ -1,0 +1,14 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "fullscreen",
+  "name": "angelofucci.github",
+  "orientation": "landscape",
+  "scope": "/https://angelofucci.github.io/Calcolatrice/",
+  "short_name": "angelofucci.github",
+  "start_url": "/https://angelofucci.github.io/Calcolatrice/",
+  "theme_color": "#ffffff",
+  "display_override": [
+    "window-controls-overlay"
+  ]
+}
