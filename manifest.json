@@ -2,13 +2,24 @@
   "background_color": "#ffffff",
   "dir": "ltr",
   "display": "fullscreen",
-  "name": "angelofucci.github",
+  "name": "calcolatrice",
   "orientation": "landscape",
   "scope": "/https://angelofucci.github.io/Calcolatrice/",
-  "short_name": "angelofucci.github",
+  "short_name": "calcolatrice",
   "start_url": "/https://angelofucci.github.io/Calcolatrice/",
   "theme_color": "#ffffff",
   "display_override": [
     "window-controls-overlay"
-  ]
+  ],
+  "lang":"it-IT",
+  "icons": [
+  {
+      "src": "https://www.pwabuilder.com/assets/icons/icon_512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+  }
+]
+
+
 }
